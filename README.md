@@ -181,6 +181,6 @@ This model presented better results when checking the calibration chart, which m
 
 - In the second step, all the features selected by the Boruta method were used and better results were observed for the Recall and F1-Score metrics, which are the most important for this problem.
 
-- The XGBoost algorithm showed the best results mainly considering the metrics Recall and F1-score, which means, that this was the model chosen to make the predictions.
+- The XGBoost algorithm showed the best results mainly considering the metrics Recall and F1-score, which means, it was the model chosen to make the predictions.
 
 - The oversampling method played a crucial role in solving the problem, since the results with unbalanced data were very bad and were not even worth being presented.
